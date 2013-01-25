@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>jp.a840.websocket</groupId>
+  <artifactId>websocket-client</artifactId>
+  <versioning>
+    <versions>
+      <version>0.8.6-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130125190757</lastUpdated>
+  </versioning>
+</metadata>
